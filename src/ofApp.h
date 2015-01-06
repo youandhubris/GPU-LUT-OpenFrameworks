@@ -1,3 +1,15 @@
+/*
+ ---------------------------------------------
+ GPU LUT IN OPENFRAMEWORKS
+ ---------------------------------------------
+ BY HUBRIS [http://cargocollective.com/hubris]
+ [http://github.com/youandhubris]
+ PORTO á DECEMBER 2014
+ ---------------------------------------------
+ EXAMPLE
+ ---------------------------------------------
+ */
+
 #pragma once
 
 #include "ofMain.h"
